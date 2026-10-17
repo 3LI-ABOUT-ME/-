@@ -34,7 +34,7 @@ const CONFIG = {
   /* ── المربع (اكتب فيه اللي تبي) ── */
   box: {
     text: "الحمدلله",
-    image: "https://cdn.discordapp.com/attachments/1117153737581015041/1560823320197337150/IMG_1727.png?ex=6ad41d7e&is=6ad2cbfe&hm=3e7b743908623cacc56319016f11b28d5e8cd3538b47a78320f062305adaff45&",                   // أو حط صورة بدل النص: "assets/box.png"
+    image: "https://files.catbox.moe/rb9sjl.png",                   // أو حط صورة بدل النص: "assets/box.png"
     background: "#070707",
     color: "#2a2a2a"
   },
